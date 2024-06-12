@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 from add_0 import add
-x = 1
-y = 2
-print(f"{x} + {y} = {add(x,y)}")
+def main():
+    a = 1
+    b = 2
+    print(f"{a} + {b} = {add(a,b)}")
+if __name__ == "__main__":
+    main()
