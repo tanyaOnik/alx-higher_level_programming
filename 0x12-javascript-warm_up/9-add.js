@@ -1,4 +1,4 @@
-!/usr/bin/node
+#!/usr/bin/node
 /* script that prints the addition of 2 integers  */
 
 const first = process.argv[2];
